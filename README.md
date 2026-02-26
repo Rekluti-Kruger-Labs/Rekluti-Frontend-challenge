@@ -6,6 +6,7 @@ Construir una aplicación de una sola página (SPA) que consuma una API pública
 
 2. Requerimientos Técnicos
 Framework: React, Vue.js o Angular (versiones recientes). Dependiendo de la vacante a la que estes aplicando
+
 Estilos: CSS Modules, Tailwind CSS o Styled Components.
 API a consumir: JSONPlaceholder (o similar).
 
