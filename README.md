@@ -1,5 +1,4 @@
 # Rekluti-Frontend-challenge
-Challenge para evaluar desarrolladores frontend
 
 🚀 Frontend Challenge: Kruger Talent Dashboard
 
@@ -8,33 +7,33 @@ Construir una aplicación de una sola página (SPA) que consuma una API pública
 
 Requerimientos Técnicos
 
-Framework: React, Vue.js o Angular (versiones recientes). Dependiendo de la vacante a la que estes aplicando
+- Framework: React, Vue.js o Angular (versiones recientes). Dependiendo de la vacante a la que estes aplicando
 
-Estilos: CSS Modules, Tailwind CSS o Styled Components.
+- Estilos: CSS Modules, Tailwind CSS o Styled Components.
 
-API a consumir: JSONPlaceholder (o similar).
+- API a consumir: JSONPlaceholder (o similar).
 
 Funcionalidades Clave:
 
-Listado de usuarios con manejo de estados de carga (loading) y error.
+- Listado de usuarios con manejo de estados de carga (loading) y error.
 
-Buscador en tiempo real por nombre.
+- Buscador en tiempo real por nombre.
 
-Filtro por categoría (ej. ciudad o empresa).
+- Filtro por categoría (ej. ciudad o empresa).
 
-Vista de detalle al hacer clic en un perfil.
+- Vista de detalle al hacer clic en un perfil.
 
 Instrucciones de Entrega (IMPORTANTE) ⚠️
 
-NO hagas un Fork público de este repositorio.
+- NO hagas un Fork público de este repositorio.
 
-Haz clic en el botón "Use this template" y crea un REPOSITORIO PRIVADO en tu cuenta personal.
+- Haz clic en el botón "Use this template" y crea un REPOSITORIO PRIVADO en tu cuenta personal.
 
-Desarrolla tu solución en ese repositorio privado.
+- Desarrolla tu solución en ese repositorio privado.
 
-Una vez finalizado, añade al usuario de GitHub de Rekluti-Kruger ([Tu_Usuario_Aqui]) como Colaborador con permisos de lectura.
+- Una vez finalizado, añade al usuario de GitHub de Rekluti-Kruger ([Tu_Usuario_Aqui]) como Colaborador con permisos de lectura.
 
-Copia el link de tu repositorio y envíalo a través del enlace que recibiste por Recruitee.
+- Copia el link de tu repositorio y envíalo a través del enlace que recibiste por Recruitee.
 
 Notas Adicionales
 Puedes usar librerías externas para manejo de estado o routing si lo consideras necesario.
