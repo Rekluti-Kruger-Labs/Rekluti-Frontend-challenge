@@ -8,21 +8,29 @@ Construir una aplicación de una sola página (SPA) que consuma una API pública
 Framework: React, Vue.js o Angular (versiones recientes). Dependiendo de la vacante a la que estes aplicando
 
 Estilos: CSS Modules, Tailwind CSS o Styled Components.
+
 API a consumir: JSONPlaceholder (o similar).
 
 3. Funcionalidades Clave:
 Listado de usuarios con manejo de estados de carga (loading) y error.
+
 Buscador en tiempo real por nombre.
+
 Filtro por categoría (ej. ciudad o empresa).
+
 Vista de detalle al hacer clic en un perfil.
 
-4. Instrucciones de Entrega (IMPORTANTE) ⚠️
+5. Instrucciones de Entrega (IMPORTANTE) ⚠️
 NO hagas un Fork público de este repositorio.
+
 Haz clic en el botón "Use this template" y crea un REPOSITORIO PRIVADO en tu cuenta personal.
+
 Desarrolla tu solución en ese repositorio privado.
+
 Una vez finalizado, añade al usuario de GitHub de Rekluti-Kruger ([Tu_Usuario_Aqui]) como Colaborador con permisos de lectura.
+
 Copia el link de tu repositorio y envíalo a través del enlace que recibiste por Recruitee.
 
-5. Notas Adicionales
+7. Notas Adicionales
 Puedes usar librerías externas para manejo de estado o routing si lo consideras necesario.
 Valoramos positivamente la inclusión de Tests Unitarios básicos
