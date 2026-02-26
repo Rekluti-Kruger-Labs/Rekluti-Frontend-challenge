@@ -36,6 +36,6 @@ Una vez finalizado, añade al usuario de GitHub de Rekluti-Kruger ([Tu_Usuario_A
 
 Copia el link de tu repositorio y envíalo a través del enlace que recibiste por Recruitee.
 
-7. Notas Adicionales
+Notas Adicionales
 Puedes usar librerías externas para manejo de estado o routing si lo consideras necesario.
 Valoramos positivamente la inclusión de Tests Unitarios básicos
