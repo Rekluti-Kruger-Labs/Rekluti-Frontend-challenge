@@ -1,6 +1,8 @@
 # Rekluti-Frontend-challenge
 Challenge para evaluar desarrolladores frontend
+
 🚀 Frontend Challenge: Kruger Talent Dashboard
+
 El Reto
 Construir una aplicación de una sola página (SPA) que consuma una API pública y permita visualizar, filtrar y buscar perfiles de talento. Este ejercicio evalúa tu capacidad para estructurar proyectos escalables, manejar estados y aplicar buenas prácticas de UI/UX.
 
